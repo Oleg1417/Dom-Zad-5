@@ -1,0 +1,30 @@
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.exe
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.deps.json
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.runtimeconfig.json
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.dll
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.pdb
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.csproj.AssemblyReference.cache
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.AssemblyInfoInputs.cache
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.AssemblyInfo.cs
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.csproj.CoreCompileInputs.cache
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.dll
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\refint\DomZad5.dll
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.pdb
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.genruntimeconfig.cache
+C:\Users\Oleg1417\Desktop\C#_domZad_5\DomZad5\obj\Debug\net6.0\ref\DomZad5.dll
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.csproj.AssemblyReference.cache
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.AssemblyInfoInputs.cache
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.AssemblyInfo.cs
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.csproj.CoreCompileInputs.cache
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.dll
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\refint\DomZad5.dll
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.pdb
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.exe
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.deps.json
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.runtimeconfig.json
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.dll
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\bin\Debug\net6.0\DomZad5.pdb
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\DomZad5.genruntimeconfig.cache
+C:\Users\smirn_h25vgqv\OneDrive\Рабочий стол\C#_domZad_5\DomZad5\obj\Debug\net6.0\ref\DomZad5.dll
